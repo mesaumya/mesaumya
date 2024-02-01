@@ -23,9 +23,6 @@ p{
   <p>it has been a great (+ chaotic) journey till now.
 </p>
 <br><hr>
-
-<img src="gurl.gif">
-<img src="download (2).gif">
 <img src="download (3).gif">
 <br>
 <p>This is Fernanda Diaz's Artwork on Youtube.</p>
