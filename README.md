@@ -15,7 +15,7 @@
   <p>it has been a great (+ chaotic) journey till now.
 </p>
 <br><hr width="2px">
-<img src="https://pin.it/7fZNTCMAK" type="gif">
+<img src="https://pin.it/7fZNTCMAK">
 <img src="https://pin.it/7fZNTCMAK" type="gif">
  <img src="https://pin.it/229tJw4B1" type="gif">
 
