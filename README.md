@@ -1,7 +1,7 @@
 <html>
-<body><title><link rel="preconnect" href="https://fonts.googleapis.com">
+<body><link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Rubik+Mono+One&display=swap" rel="stylesheet"></title>
+  <link href="https://fonts.googleapis.com/css2?family=Rubik+Mono+One&display=swap" rel="stylesheet">
 
 <h1 class="heading">Hey People</h1>
 
@@ -15,10 +15,12 @@
   <p>it has been a great (+ chaotic) journey till now.
 </p>
 <br><hr width="2px">
+
 <img src="https://pin.it/7fZNTCMAK">
 <img src="https://pin.it/7fZNTCMAK" type="gif">
  <img src="https://pin.it/229tJw4B1" type="gif">
-
+<div></div>
+<p>This is Fernanda Diaz's Artwork on Youtube.</p>
 <style>
 body {
   background-color: #8ECAE6;
