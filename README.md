@@ -1,9 +1,10 @@
-Hey!
+HEY!
 
 I am a high school senior with a passion 🫠 for
 Design, CS and Creative Industry who
 loves to explore new things.
 Mostly looking out for clouds ☁.
+
 
 Currently, I am working on my portfolio 🥳 and
 it has been a great (+ chaotic) journey till now.
