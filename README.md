@@ -4,7 +4,15 @@
   <link href="https://fonts.googleapis.com/css2?family=Rubik+Mono+One&display=swap" rel="stylesheet">
 
 <h1 class="heading">Hey People</h1>
-
+<style>
+body {
+  background-color: #8ECAE6;
+}
+.heading {
+font-family: 'Rubik Mono One', monospace;  }
+p{
+  line-height: 50%;
+}</style>
 <p>I am a high school senior with a passion 😉 for</p>
 <p>Design, CS and Creative Industry who</p>
 <p>loves to explore new things.</p>
@@ -17,18 +25,10 @@
 <br><hr>
 
 <img src="gurl.gif">
-<img src="browngurl1.gif">
-<img src="browngurl2.gif">
+<img src="download (2).gif">
+<img src="download (3).gif">
 <br>
 <p>This is Fernanda Diaz's Artwork on Youtube.</p>
-<style>
-body {
-  background-color: #8ECAE6;
-}
-.heading {
-font-family: 'Rubik Mono One', monospace;  }
-p{
-  line-height: 50%;
-}</style>
+
 </body>
 </html>
