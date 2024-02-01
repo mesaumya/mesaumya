@@ -14,12 +14,12 @@
 </p>
   <p>it has been a great (+ chaotic) journey till now.
 </p>
-<br><hr width="2px">
+<br><hr>
 
 <img src="gurl.gif">
-<img src="browngurl1.gif" type="gif">
- <img src="browngurl2.gif" type="gif">
-<div></div>
+<img src="browngurl1.gif">
+<img src="browngurl2.gif">
+<br>
 <p>This is Fernanda Diaz's Artwork on Youtube.</p>
 <style>
 body {
@@ -29,6 +29,6 @@ body {
 font-family: 'Rubik Mono One', monospace;  }
 p{
   line-height: 50%;
-}
+}</style>
 </body>
 </html>
