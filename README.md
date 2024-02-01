@@ -16,9 +16,9 @@
 </p>
 <br><hr width="2px">
 
-<img src="https://pin.it/7fZNTCMAK">
-<img src="https://pin.it/7fZNTCMAK" type="gif">
- <img src="https://pin.it/229tJw4B1" type="gif">
+<img src="gurl.gif">
+<img src="browngurl1.gif" type="gif">
+ <img src="browngurl2.gif" type="gif">
 <div></div>
 <p>This is Fernanda Diaz's Artwork on Youtube.</p>
 <style>
