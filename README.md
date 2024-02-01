@@ -7,6 +7,6 @@
 <b><p>I am a high school senior with a passion 😉 for Design, CS and Creative Industry who loves to explore new things. Mostly looking out for clouds ☁.</p>
 <p line-height="50%">Currently, I am working on my portfolio 🥳 and it has been a great (+ chaotic) journey till now.</p></b>
 <br><hr>
-<img src="download (3).gif" align="centre>
+<img src="download (3).gif" align="centre">
 <u><p>This is Fernanda Diaz's Artwork on Youtube.</p></u>
 </html>
