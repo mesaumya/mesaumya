@@ -8,4 +8,5 @@ Mostly looking out for clouds ☁.
 Currently, I am working on my portfolio 🥳 and
 it has been a great (+ chaotic) journey till now.
 
-![Yay Cute Sticker - Yay Cute Cat - Discover   Share GIFs](https://github.com/mesaumya/mesaumya/assets/71837373/d43406da-3507-477b-bfb2-e15078440d80)
+![Bam! (1)](https://github.com/mesaumya/mesaumya/assets/71837373/99d97806-32d6-4b5f-86db-52a8560e5f47)
+
