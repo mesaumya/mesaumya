@@ -5,7 +5,7 @@
 
 <h1 class="heading">Hey People</h1>
 
-<p>I am a high school senior with a passion :winking_face: for</p>
+<p>I am a high school senior with a passion 😉 for</p>
 <p>Design, CS and Creative Industry who</p>
 <p>loves to explore new things.</p>
 <p>Mostly looking out for clouds ☁.</p>
